@@ -1,6 +1,5 @@
 # SoccerSynth-Detection: A Synthetic Dataset for Soccer Player Detection
-arxiv badge
-
+[![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg)](https://arxiv.org/abs/xxxx.xxxxx)
 
 insert fig 2 from the paper 
 
