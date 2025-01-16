@@ -1,7 +1,7 @@
 # SoccerSynth-Detection: A Synthetic Dataset for Soccer Player Detection
 [![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg)](https://arxiv.org/abs/xxxx.xxxxx)
 
-insert fig 2 from the paper 
+<p align="center"><img src="https://github.com/calvinyeungck/3D-Shot-Posture-Dataset/blob/master/3dsp_utils/image/test_00006.gif" width="60%" alt="" /></p>
 
 abstract
 
