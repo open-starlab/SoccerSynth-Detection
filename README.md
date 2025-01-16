@@ -1,7 +1,11 @@
 # SoccerSynth-Detection: A Synthetic Dataset for Soccer Player Detection
 [![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg)](https://arxiv.org/abs/xxxx.xxxxx)
 
-<p align="center"><img src="https://github.com/calvinyeungck/3D-Shot-Posture-Dataset/blob/master/3dsp_utils/image/test_00006.gif" width="60%" alt="" /></p>
+<div style="display:flex;">
+  <img src="https://github.com/open-starlab/SoccerSynth-Detection/blob/main/img/4.png" alt="Image 1" style="width:30%;">
+  <img src="https://github.com/open-starlab/SoccerSynth-Detection/blob/main/img/3.png" alt="Image 2" style="width:30%;">
+  <img src="https://github.com/open-starlab/SoccerSynth-Detection/blob/main/img/0.png" alt="Image 2" style="width:30%;">
+</div>
 
 abstract
 
