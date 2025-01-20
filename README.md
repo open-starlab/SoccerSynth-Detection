@@ -26,23 +26,6 @@ link to the result of transfer experiment:
 
 https://drive.google.com/drive/folders/1JyCxlO7V9_3ywH-IN1TNLxxwhaEfdkBl?usp=drive_link
 
-link to yolo
-https://github.com/autogyro/yolo-V8
-
-Method to convert into yolo format
-1. clone the repo
-```
-git clone
-```
-2. cd to the repo
-```
-cd ./SoccerSynth-Detection
-```
-3. run the script
-```
-python xx.py
-```
-
 ## Developer
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <!-- [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-) -->
