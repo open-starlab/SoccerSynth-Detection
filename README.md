@@ -12,10 +12,13 @@ In soccer video analysis, player detection is essential for identifying key even
 
 link to the dataset
 https://drive.google.com/file/d/1UJd9ayx5_cXW28NEE8jlLO9oThleZ-y7/view?usp=drive_link
+
 link to the generator(Win64)
 https://drive.google.com/drive/folders/1sBwTbRcQ2eWgHByByxsp_JuPaMtd8_ME?usp=drive_link
+
 link to the result of pre-train experiment
 https://drive.google.com/drive/folders/1IfZAtWpjXK4JtugInxTmCCtCnIFmRxk1?usp=drive_link
+
 link to the result of transfer experiment
 https://drive.google.com/drive/folders/1JyCxlO7V9_3ywH-IN1TNLxxwhaEfdkBl?usp=drive_link
 
