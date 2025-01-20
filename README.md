@@ -2,9 +2,9 @@
 [![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg)](https://arxiv.org/abs/xxxx.xxxxx)
 
 <div style="display:flex;">
-  <img src="https://github.com/open-starlab/SoccerSynth-Detection/blob/main/img/4.png" alt="Image 1" style="width:30%;">
-  <img src="https://github.com/open-starlab/SoccerSynth-Detection/blob/main/img/3.png" alt="Image 2" style="width:30%;">
-  <img src="https://github.com/open-starlab/SoccerSynth-Detection/blob/main/img/0.png" alt="Image 2" style="width:30%;">
+  <img src="https://github.com/open-starlab/SoccerSynth-Detection/blob/main/img/4.png" alt="Image 1" style="height:100%;width:30%;">
+  <img src="https://github.com/open-starlab/SoccerSynth-Detection/blob/main/img/3.png" alt="Image 2" style="height:100%;width:30%;">
+  <img src="https://github.com/open-starlab/SoccerSynth-Detection/blob/main/img/0.png" alt="Image 2" style="height:100%;width:30%;">
 </div>
 
 **Abstract**
