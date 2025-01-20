@@ -4,7 +4,7 @@
 <div style="display:flex;">
   <img src="https://github.com/open-starlab/SoccerSynth-Detection/blob/main/img/4.png" alt="Image 1" style="height:100%;width:30%;">
   <img src="https://github.com/open-starlab/SoccerSynth-Detection/blob/main/img/3.png" alt="Image 2" style="height:100%;width:30%;">
-  <img src="https://github.com/open-starlab/SoccerSynth-Detection/blob/main/img/0.png" alt="Image 2" style="height:100%;width:30%;">
+  <img src="https://github.com/open-starlab/SoccerSynth-Detection/blob/main/img/0.png" alt="Image 2" style="height:200%;width:30%;">
 </div>
 
 **Abstract**
