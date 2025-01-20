@@ -40,33 +40,26 @@ python xx.py
 <table>
   <tbody>
     <tr>
-<td align="center" valign="top" width="14.28%">
+<td align="center" valign="top" width="30%">
     <a href="https://github.com/qinhaobin1997">
         <img src="https://github.com/qinhaobin1997.png" style="height:100px; width:100px;" alt="Haobin Qin"/><br />
         <sub><b>Haobin Qin</b></sub>
     </a>
     <br /><a href="#Developer-HaobinQin" title="Lead Developer">💻</a>
 </td>
-<td align="center" valign="top" width="14.28%">
+<td align="center" valign="top" width="30%">
     <a href="https://github.com/calvinyeungck">
         <img src="https://github.com/calvinyeungck.png" style="height:100px; width:100px;" alt="Calvin Yeung"/><br />
         <sub><b>Calvin Yeung</b></sub>
     </a>
     <br /><a href="#Coordinator-CalvinYeung" title="Developer">💻</a>
 </td>
-<td align="center" valign="top" width="14.28%">
+<td align="center" valign="top" width="30%">
     <a href="https://github.com/Rikuhei-ynwa">
         <img src="https://github.com/Rikuhei-ynwa.png" style="height:100px; width:100px;" alt="Rikuhei Umemoto"/><br />
         <sub><b>Rikuhei Umemoto</b></sub>
     </a>
     <br /><a href="#Coordinator-RikuheiUmemoto" title="Developer">💻</a>
-</td>
-<td align="center" valign="top" width="14.28%">
-    <a href="https://github.com/keisuke198619">
-        <img src="https://github.com/keisuke198619.png" style="height:100px; width:100px;" alt="Keisuke Fujii"/><br />
-        <sub><b>Keisuke Fujii</b></sub>
-    </a>
-    <br /><a href="#lead-KeisukeFujii" title="Team Leader">🧑‍💻</a>
 </td>
 
   </tbody>
