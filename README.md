@@ -10,16 +10,20 @@
 
 In soccer video analysis, player detection is essential for identifying key events and reconstructing tactical positions. The presence of numerous players and frequent occlusions, combined with copyright restrictions, severely restricts the availability of datasets, leaving limited options such as SoccerNet-Tracking and SportsMOT. These datasets suffer from a lack of diversity, which hinders algorithms from adapting effectively to varied soccer video contexts. To address these challenges, we developed SoccerSynth-Detection, the first synthetic dataset designed for the detection of synthetic soccer players. It includes a broad range of random lighting and textures, as well as simulated camera motion blur. We validated its efficacy using the object detection model (Yolov8n) against real-world datasets (SoccerNet-Tracking and SportsMoT). In transfer tests, it matched the performance of real datasets and significantly outperformed them in images with motion blur; in pre-training tests, it demonstrated its efficacy as a pre-training dataset, significantly enhancing the algorithm's overall performance. Our work demonstrates the potential of synthetic datasets to replace real datasets for algorithm training in the field of soccer video analysis.
 
-link to the dataset
+link to the dataset:
+
 https://drive.google.com/file/d/1UJd9ayx5_cXW28NEE8jlLO9oThleZ-y7/view?usp=drive_link
 
-link to the generator(Win64)
+link to the generator(Win64):
+
 https://drive.google.com/drive/folders/1sBwTbRcQ2eWgHByByxsp_JuPaMtd8_ME?usp=drive_link
 
-link to the result of pre-train experiment
+link to the result of pre-train experiment:
+
 https://drive.google.com/drive/folders/1IfZAtWpjXK4JtugInxTmCCtCnIFmRxk1?usp=drive_link
 
-link to the result of transfer experiment
+link to the result of transfer experiment:
+
 https://drive.google.com/drive/folders/1JyCxlO7V9_3ywH-IN1TNLxxwhaEfdkBl?usp=drive_link
 
 link to yolo
