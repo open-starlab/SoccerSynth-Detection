@@ -56,7 +56,7 @@ python xx.py
 </td>
 <td align="center" valign="top" width="14.28%">
     <a href="https://github.com/Rikuhei-ynwa">
-        <img src="https://github.com/Rikuhei-ynwa.png" style="height:200px; width:100px;" alt="Rikuhei Umemoto"/><br />
+        <img src="https://github.com/Rikuhei-ynwa.png" style="height:100px; width:100px;" alt="Rikuhei Umemoto"/><br />
         <sub><b>Rikuhei Umemoto</b></sub>
     </a>
     <br /><a href="#Coordinator-RikuheiUmemoto" title="Developer">💻</a>
