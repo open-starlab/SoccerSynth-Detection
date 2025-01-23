@@ -1,5 +1,5 @@
 # SoccerSynth-Detection: A Synthetic Dataset for Soccer Player Detection
-[![arXiv](https://img.shields.io/badge/arXiv-2501.09281-b31b1b.svg)](https://arxiv.org/abs/2501.09281))
+[![arXiv](https://img.shields.io/badge/arXiv-2501.09281-b31b1b.svg)](https://arxiv.org/abs/2501.09281)
 
 <div style="display:flex;">
   <img src="https://github.com/open-starlab/SoccerSynth-Detection/blob/main/img/4.png" alt="Image 1" style="width:40%;">
