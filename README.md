@@ -14,7 +14,7 @@ link to the dataset:
 
 https://drive.google.com/file/d/1UJd9ayx5_cXW28NEE8jlLO9oThleZ-y7/view?usp=drive_link
 
-link to the generator(Win64):
+link to the generator(Windows):
 
 https://drive.google.com/drive/folders/1sBwTbRcQ2eWgHByByxsp_JuPaMtd8_ME?usp=drive_link
 
